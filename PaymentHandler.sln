@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentHandler", "PaymentHandler\PaymentHandler.csproj", "{C1C3677C-6F5E-404F-A9AB-C6854C019E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentHandler.Tests", "PaymentHandler.Tests\PaymentHandler.Tests.csproj", "{F62F4E48-E608-4F93-BD28-60BE92ABB565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C3677C-6F5E-404F-A9AB-C6854C019E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C3677C-6F5E-404F-A9AB-C6854C019E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C3677C-6F5E-404F-A9AB-C6854C019E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C3677C-6F5E-404F-A9AB-C6854C019E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62F4E48-E608-4F93-BD28-60BE92ABB565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F4E48-E608-4F93-BD28-60BE92ABB565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F4E48-E608-4F93-BD28-60BE92ABB565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F4E48-E608-4F93-BD28-60BE92ABB565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC85A4D-6DAF-44B2-BA8D-338E00EB14E9}
+	EndGlobalSection
+EndGlobal
